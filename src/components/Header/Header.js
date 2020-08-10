@@ -13,3 +13,5 @@ export default function Header(props) {
                     <Search value={props.value} handleInputChange={props.handleInputChange}/> 
         </div>
     )}
+
+    export default Header;
