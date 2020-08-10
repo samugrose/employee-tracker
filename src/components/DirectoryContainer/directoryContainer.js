@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
-
+import Tr from "../TableRow/tableRow"
+import Header from "../Header/header"
+import API from "../../utils/API"
 
 
 export default class DirectoryContainer extends Component {
